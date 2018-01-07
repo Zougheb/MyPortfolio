@@ -171,11 +171,12 @@ a.btn:hover {
   padding-top: 90px;
   padding-bottom: 60px;
   position: relative;
-  font-size: 16px;
+  font-size: 20px;
 }
 .header .profile {
   max-width: 800px;
   margin: 0 auto;
+
 }
 .header .contact-info {
   background: rgb(3, 169, 244);
